@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  ExerciseE2_InputSingleLine.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(D:\Shubham_Workspace\Object_ARX\ObjectARXCommands\x64\Debug\ExerciseE2_InputSingleLine.dll) does not match the Linker's OutputFile property value (D:\Shubham_Workspace\Object_ARX\ObjectARXCommands\x64\Debug\ExerciseE2_InputSingleLine.arx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1393,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.arx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library D:\Shubham_Workspace\Object_ARX\ObjectARXCommands\x64\Debug\ExerciseE2_InputSingleLine.lib and object D:\Shubham_Workspace\Object_ARX\ObjectARXCommands\x64\Debug\ExerciseE2_InputSingleLine.exp
+rxapi.lib(libinit.obj) : warning LNK4099: PDB '' was not found with 'rxapi.lib(libinit.obj)' or at ''; linking object as if no debug info
+msvcrtd.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ExerciseE2_InputSingleLine.vcxproj -> D:\Shubham_Workspace\Object_ARX\ObjectARXCommands\x64\Debug\ExerciseE2_InputSingleLine.dll
