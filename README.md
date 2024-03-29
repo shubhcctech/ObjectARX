@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,14 +29,10 @@
 <p>Each exercise has its own folder with the following structure:</p>
 
 <pre>
-Exercise1_3_Greetings/
-│
-├── headers/             # Header files (.h)
-│   ├── Exercise1_3_Greetings.h
-│   └── ...
+FolderName/
 │
 └── src/                 # Source files (.cpp)
-    ├── Exercise1_3_Greetings.cpp
+    ├── FolderName.cpp
     └── ...
 </pre>
 
@@ -65,4 +61,3 @@ Exercise1_3_Greetings/
 
 </body>
 </html>
-
